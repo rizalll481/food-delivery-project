@@ -5,4 +5,4 @@ food delivery project description : it is about the design of food delivery app 
 # E-Commerce Website-project
 E-Commerce project description : it is about the design of an online store for any cosmetics related product with thw hwlp of figma and the tools used in it .
 ## figma design Link
-[Click here to view the figma UI design of E-Commerce Website](https://www.figma.com/design/aPVeN1psegTLfARAzoLZCy/Untitled?node-id=0-1&t=rpl8oybQPQOfJgkv-1)
+[Click here to view the figma UI design of E-Commerce Website](https://www.figma.com/design/zE0DN66aOaDXgwsuKISJ0e/ECommerce-App-design?node-id=5-6&t=kvxanKleHUELyU4N-1)
